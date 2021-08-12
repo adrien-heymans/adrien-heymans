@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on a react-native Wellness App
+- 📫 How to reach me: aheymans@uottawa.ca
+- 💫 My LinkedIn : https://www.linkedin.com/in/adrien-heymans-7207061b2/
+- 😄 Pronouns: He/Him
