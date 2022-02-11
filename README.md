@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a react-native Wellness App
+- 🔭 I’m currently working on a react-native Wellness App and a HTML and javascript bases webapp
 - 📫 How to reach me: aheymans@uottawa.ca
 - 💫 My LinkedIn : https://www.linkedin.com/in/adrien-heymans-7207061b2/
 - 😄 Pronouns: He/Him
